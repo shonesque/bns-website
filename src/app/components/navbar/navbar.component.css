@@ -1,0 +1,13 @@
+nav{
+    background-color: #E62137;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+#nav-mobile.left {
+    margin-left: 5rem;
+}
+
+#nav-mobile li {
+    font-weight: 700;
+}

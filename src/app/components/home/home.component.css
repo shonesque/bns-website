@@ -1,0 +1,39 @@
+
+header #showcase{
+    padding: 2rem;   
+    
+    background-image: url('../../../assets/img/header.jpg');
+    height: 94vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#showcase .btn {
+    background-color:  #E62137;
+}
+
+#showcase p {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #fff;
+}
+
+#showcase h2 {
+    font-size: 28px;
+    font-weight: 200;
+    line-height: 1.6;
+    color: #fff;
+}
+
+#showcase .main-text-content {
+    background-color: rgba(0, 51, 102, 0.7);
+    margin-bottom: 4rem;
+}
